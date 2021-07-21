@@ -2,4 +2,4 @@ Deep Learning
 - Membuat platform untuk project deep learning
 - Membuat forum diskusi
 - Membuat prototype
-- Membuat jurnal
+- Membuat solusi untuk permasalahan
